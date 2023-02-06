@@ -1,0 +1,15 @@
+C:\cursos\MeusExerciciosCSharp\Exercicios\Exercicio02\bin\Debug\net6.0\Exercicio02.exe
+C:\cursos\MeusExerciciosCSharp\Exercicios\Exercicio02\bin\Debug\net6.0\Exercicio02.deps.json
+C:\cursos\MeusExerciciosCSharp\Exercicios\Exercicio02\bin\Debug\net6.0\Exercicio02.runtimeconfig.json
+C:\cursos\MeusExerciciosCSharp\Exercicios\Exercicio02\bin\Debug\net6.0\Exercicio02.dll
+C:\cursos\MeusExerciciosCSharp\Exercicios\Exercicio02\bin\Debug\net6.0\Exercicio02.pdb
+C:\cursos\MeusExerciciosCSharp\Exercicios\Exercicio02\obj\Debug\net6.0\Exercicio02.csproj.AssemblyReference.cache
+C:\cursos\MeusExerciciosCSharp\Exercicios\Exercicio02\obj\Debug\net6.0\Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursos\MeusExerciciosCSharp\Exercicios\Exercicio02\obj\Debug\net6.0\Exercicio02.AssemblyInfoInputs.cache
+C:\cursos\MeusExerciciosCSharp\Exercicios\Exercicio02\obj\Debug\net6.0\Exercicio02.AssemblyInfo.cs
+C:\cursos\MeusExerciciosCSharp\Exercicios\Exercicio02\obj\Debug\net6.0\Exercicio02.csproj.CoreCompileInputs.cache
+C:\cursos\MeusExerciciosCSharp\Exercicios\Exercicio02\obj\Debug\net6.0\Exercicio02.dll
+C:\cursos\MeusExerciciosCSharp\Exercicios\Exercicio02\obj\Debug\net6.0\refint\Exercicio02.dll
+C:\cursos\MeusExerciciosCSharp\Exercicios\Exercicio02\obj\Debug\net6.0\Exercicio02.pdb
+C:\cursos\MeusExerciciosCSharp\Exercicios\Exercicio02\obj\Debug\net6.0\Exercicio02.genruntimeconfig.cache
+C:\cursos\MeusExerciciosCSharp\Exercicios\Exercicio02\obj\Debug\net6.0\ref\Exercicio02.dll
